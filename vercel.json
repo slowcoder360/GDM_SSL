@@ -1,0 +1,9 @@
+{
+    "crons": [
+      {
+        "path": "/api/check-exp",
+        "schedule": "0 0 * * *"
+      }
+    ]
+  }
+  
