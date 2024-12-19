@@ -24,7 +24,7 @@ export default async function DashboardPage() {
 
   return (
     <div className="w-full flex flex-col space-y-6 p-8 pt-6">
-      <div className="flex items-center justify-between">
+      <div className="flex items-center justify-between p-10">
         <h1 className="text-3xl font-bold">GDM Domains</h1>
         <UserButton />
         <div>
